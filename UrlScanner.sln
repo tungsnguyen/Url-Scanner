@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrlScanner", "UrlScanner\UrlScanner.csproj", "{FBA6166F-299C-41EC-8170-4616A41812FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlScanner.Tests", "UrlScanner.Tests\UrlScanner.Tests.csproj", "{874180AF-3E58-4B07-9A72-511D876CA808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA6166F-299C-41EC-8170-4616A41812FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA6166F-299C-41EC-8170-4616A41812FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA6166F-299C-41EC-8170-4616A41812FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA6166F-299C-41EC-8170-4616A41812FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874180AF-3E58-4B07-9A72-511D876CA808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874180AF-3E58-4B07-9A72-511D876CA808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874180AF-3E58-4B07-9A72-511D876CA808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874180AF-3E58-4B07-9A72-511D876CA808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {051991DF-DB9F-45F3-8F47-D376CBE06ADA}
+	EndGlobalSection
+EndGlobal
